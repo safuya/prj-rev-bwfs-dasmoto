@@ -1,0 +1,13 @@
+body {
+  font-family: Helvetica;
+}
+
+#header {
+  background-image: url("./resources/images/pattern.jpeg");
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+}
